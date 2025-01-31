@@ -1,3 +1,5 @@
+## Carrera de caballos TCP
+
 ```mermaid
 ---
 title: Diagrama de secuencia 
@@ -25,7 +27,7 @@ sequenceDiagram
 
 ```mermaid
 ---
-title: Diagrama de clase
+title: Diagrama de clases
 ---
 
 classDiagram
